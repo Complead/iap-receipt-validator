@@ -6,9 +6,6 @@
   "bugs": {
     "url": "https://github.com/sibelius/iap-receipt-validator/issues"
   },
-  "dependencies": {
-    "babel-preset-react-native-stage-0": "^1.0.1"
-  },
   "devDependencies": {
     "babel-cli": "^6.9.0",
     "babel-eslint": "^7.1.1",
